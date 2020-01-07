@@ -12,7 +12,7 @@ class Home extends StatelessWidget {
           EdgeInsets.only(left: 10.0, top: 200.0, right: 15.0, bottom: 300.0),
       padding: EdgeInsets.all(10.0),
 //        width: 200,
-//        height: 200
+//        height: 200jhy
       child: Column(
         children: <Widget>[
           Row(
